@@ -1,0 +1,65 @@
+1.1 - Segment1_1_helpnotes.txt (link)
+
+1.2-1.3: Folder: CC Photoshop Folder
+Files within: 
+Poster_Cover.psd 
+Poster_Cover_assets_from_Library_2_start.psd 
+Poster_Cover_assets_from_Library_2.psd
+Folder: CC_Libraries_Ps (Photoshop Assets.cclibs and Poster_Cover Import.cclibs)
+Folder: Photoshop_Images (embed_styles_character_paragraph.ai, IMG_8931_Graphic_Image.psd, smart_object_trees.ai)
+
+2.1-2.2: Folder: CC_Illustrator
+Files within: 
+Poster_Page.ai
+Poster_Page_assets_from_Library_2_start.ai 
+Poster_Page_assets_from_Library_2.ai
+Folder: CC_Libraries_Ai (Illustrator Assets.cclibs and Poster Page ILL.cclibs)
+Folder: Illustrator Images (Background_Graphic_flatten.jpg and capture_pattern_start.psd)
+
+3.1-3.2: Folder: CC_InDesign
+Files within: 
+Newsletter_4Page.indd 
+Newsletter_4Page_2_start.indd 
+Newsletter_4Page_2_final.indd
+EPUB_animation.indd
+Folder: CC_Libraries_Id (InDesign Assets.cclibs and Newsletter ID.cclibs)
+Folder: InDesign_Images (Background_Graphic_Cover.jpg, gemstone.svg, Graphic_8931_JH.jpg, Graphic_9296_JH.jpg, Grpahic_9317_JH.jpg, Graphic_9337_JH.jpg, Shapes.ai)
+
+4.1-4.2-4.3 Folder: CC_Bridge
+Files within:
+8up_templateBCard_InDesign.indt
+BCard_Template_psdt
+Bridge Assets.cclibs
+CC_Libraries_Check.txt
+fireworks_animation.mov
+Illustrator_template_example.ait
+raw_video_lowres.mp4
+Folder: CC_Libraries_Bridge (Bridge_Assets.cclibs, Collection.cclibs, Collection2.cclibs)
+
+4.4 Folder: CC_AdobeStock
+Files within:
+Adobe Stock Photoshop.cclibs
+Adobe_Stock_postcard_start.psd
+Adobe_Stock_postcard.psd
+**Note to Apress about that licensed image, it may or may not work the same as in the video if viewer is authorized/licensed to use the Stock Photo***
+
+5.1 Folder: CC_Animate
+Files within:
+Animate_Assets_Project_start.fla 
+Animate_Assets_Project.fla   
+CC_Library_Animation_2_r3.fla
+CC_Library_Animation_2_r3.html
+CC_Library_Animation_2_r3.js
+Folder: CC_Libraries_An (Animate Assets.cclibs)
+Folder: Animate_Images (gemstones.ai)
+
+5.2 Folder: CC_Dreamweaver_Example
+Files within:
+Folder: CC_Libraries_DW (Dreamweaver Assets.cclibs)- Note: import this Library using Bridge as there seems to be a bug in Dreamweaver, then you can use it in Dreamweaver
+Starting Folder: project_DW (images folder: 
+[background_1.jpg, gallery_images_1.jpg, gallery_images_2.jpg, gallery_images_3.jpg,gallery_images_4.jpg, nav_background.jpg ], external.css, external_images.css, index.html)
+Final Folder: project_DW_final -same files but has gallery_images_4b.jpg Artwork5.jpg and gemstone.svg as well in images folder as well as the files external.css, external_images.css, index.html have been altered in the source code for comparison.
+
+5.3 - Microsoft_Word_PowerPoint.txt (link)
+
+
