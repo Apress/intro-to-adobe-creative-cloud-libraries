@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Introduction to Adobe Creative Cloud Libraries*](https://rd.springer.com/video/10.1007/978-1-4842-6000-5) by Jennifer Harder (Apress, 2020).
+This repository accompanies [*Introduction to Adobe’s CC Libraries in Photoshop*](https://rd.springer.com/video/10.1007/978-1-4842-6000-5) by Jennifer Harder (Apress, 2020).
 
 [comment]: #cover
 ![Cover image](9781484260005.jpg)
